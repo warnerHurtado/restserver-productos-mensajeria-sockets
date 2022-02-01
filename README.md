@@ -7,6 +7,9 @@ Para la parte de <strong> SocketServer </strong> cuenta con un chat que puede se
 Para la base de datos fue utilizado <strong>MONGO</strong>. El server cuenta con las siguientes APIS:
 <ul>
   <li>
+    Autenticación
+  </li>
+  <li>
     Crud de usuarios
   </li>
   <li>
@@ -16,7 +19,10 @@ Para la base de datos fue utilizado <strong>MONGO</strong>. El server cuenta con
     Crud de productos
   </li>
   <li>
-    Carga de imagenes y archivos tanto para productos como para usuarios
+    Carga y obtención de imagenes y archivos tanto para productos como para usuarios
+  </li>
+  <li>
+    Renovación de tokens
   </li>
 </ul>
   
