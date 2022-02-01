@@ -18,6 +18,7 @@ Para la base de datos fue utilizado <strong>MONGO</strong>. El server cuenta con
   <li>
     Carga de imagenes y archivos tanto para productos como para usuarios
   </li>
+</ul>
   
 Estas apis necesitan un token y algunas peticiones pueden ser realizadas únicamente por usuario con un "ADMIN_ROLE".
 
