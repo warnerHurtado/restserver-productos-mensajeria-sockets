@@ -28,6 +28,6 @@ Para la base de datos fue utilizado <strong>MONGO</strong>. El server cuenta con
   
 Estas apis necesitan un token y algunas peticiones pueden ser realizadas únicamente por usuario con un "ADMIN_ROLE".
 
-Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node, para la parte de las variables de entorno deben crear una conneción con Mongo atlas https://www.mongodb.com/atlas/database, para que pongan sus propias credenciales, igualmente con la autenticación de Google.
+Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node, para la parte de las variables de entorno deben crear una conneción con Mongo atlas https://www.mongodb.com/atlas/database, creamos la base y luego le damos en conectar y seleccionamos mongo compas, para que pongan sus propias credenciales, igualmente con la autenticación de Google.
   
 En el siguiente enlace se encuentra la documentación completa de cada uno de los endpoints: https://documenter.getpostman.com/view/9621510/SztK2QTq
